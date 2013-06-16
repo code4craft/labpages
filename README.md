@@ -8,10 +8,10 @@ Download and install:
 	
 	gem install sinatra  #labpages uses sinatra framework.
 	git clone https://github.com/code4craft/labpages.git
-	cd labpages
 	
 Start server:
 
+	cd labpages
 	rackup -p port-you-like
 
 Then add "http://your-host/update" to gitlab hooks. Try 'Test Hook' to see whether it works! **Only repo in branch "gh-pages" or repo with the same name of "your username" will be added to labpages**
