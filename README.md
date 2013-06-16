@@ -2,6 +2,8 @@ labpages
 ------------
 Pages hooks for gitlab.
 
+Rquire Ruby 1.9.3.
+
 ### Get Started
 
 Download and install:
@@ -24,7 +26,7 @@ Visit your pages in "http://your-host/your-name/your-repo"。
 
 ### Cusomize your domain
 
-First, you should get a domain and change all resovle answer (include all subdomains) to your server. Then edit `config.yml`, set `domain` to your domain. Then you can visit pages by "http://your-name.your-domain/" (for repo with same name of user) and "http://your-name.your-domain/your-repo" (for gh-pages branch)。
+First, you should get a domain and set all resovled answer (include all subdomains) to your server. Then edit `config.yml`, set `domain` to your domain. Then you can visit pages by "http://your-name.your-domain/" (for repo with same name of user) and "http://your-name.your-domain/your-repo" (for gh-pages branch)。
 
 
 ### License

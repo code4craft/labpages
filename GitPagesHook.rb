@@ -12,8 +12,8 @@ class GitPagesHook < Sinatra::Base
     logger.info("dir #{config['repo_dir']} not exist, make it.")
     FileUtils.mkdir_p config["repo_dir"]
   end
-  set bind: "0.0.0.0"
-  set port: 8080
+  set :bind,"0.0.0.0"
+  set :port,8080
 
   get '/ping' do
     'Gitlab Web Hook is up and running :-)'
@@ -90,6 +90,10 @@ class GitPagesHook < Sinatra::Base
     else
       pass
     end
+  end
+
+  not_found do
+    send_file File.dirname(__FILE__)+"/404.html"
   end
 
   run! if app_file == $0
