@@ -52,6 +52,9 @@ class GitPagesHook < Sinatra::Base
         repoName = match[1]
         filePath=[config["repo_dir"], userName, repoName].join('/')
         if File.exist? filePath
+          if request.path_info.end_with?repoName
+            redirect to(request.path_info+"/")
+          end
           request.path_info = '/'+userName+'/'+request.path_info
           return
         end
