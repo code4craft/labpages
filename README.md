@@ -2,7 +2,7 @@ labpages
 ------------
 Pages hooks for gitlab.
 
-Tests succeed Ruby 1.9.3.
+Tests passed on Ruby 1.9.3.
 
 ### Get Started
 
