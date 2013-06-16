@@ -1,0 +1,2 @@
+require './GitPagesHook'
+run GitPagesHook

@@ -1,0 +1,32 @@
+# Logfile created on 2013-06-16 12:02:31 +0800 by logger.rb/31641
+I, [2013-06-16T12:02:35.437775 #9736]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:03:21.514619 #9750]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:04:48.625962 #9772]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:04:48.958029 #9772]  INFO -- : clone success!
+I, [2013-06-16T12:05:14.561873 #9772]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:05:14.600928 #9772]  INFO -- : clone success!
+I, [2013-06-16T12:05:20.269972 #9783]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:05:20.278197 #9783]  INFO -- : 
+I, [2013-06-16T12:05:20.278407 #9783]  INFO -- : clone success!
+I, [2013-06-16T12:07:00.019623 #9807]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git
+I, [2013-06-16T12:07:00.029474 #9807]  INFO -- : clone success!
+I, [2013-06-16T12:38:22.881399 #10313]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T12:38:23.211459 #10313]  INFO -- : clone success!
+I, [2013-06-16T12:42:23.703767 #10483]  INFO -- : start to pull git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T12:42:24.125504 #10483]  INFO -- : pull success!
+I, [2013-06-16T12:43:17.428615 #10507]  INFO -- : start to pull git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T12:43:19.667513 #10507]  INFO -- : pull success!
+I, [2013-06-16T12:56:45.751509 #10704]  INFO -- : start to pull git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T12:56:47.684553 #10704]  INFO -- : pull success!
+I, [2013-06-16T12:57:06.858976 #10748]  INFO -- : dir /data/gitpages not exist, make it.
+I, [2013-06-16T12:57:14.245905 #10748]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T12:57:22.305718 #10748]  INFO -- : clone success!
+I, [2013-06-16T13:08:14.509349 #11027]  INFO -- : start to pull git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T13:08:16.467202 #11027]  INFO -- : pull success!
+I, [2013-06-16T13:11:39.124101 #11118]  INFO -- : dir /data/gitpages not exist, make it.
+I, [2013-06-16T13:14:20.301174 #11118]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/yihua-huang.git to dir /data/gitpages/yihua.huang/yihua.huang
+I, [2013-06-16T13:14:28.781003 #11118]  INFO -- : clone success!
+I, [2013-06-16T13:14:44.600251 #11232]  INFO -- : start to pull git@code.dianpingoa.com:yihua.huang/yihua-huang.git to dir /data/gitpages/yihua.huang/yihua.huang
+I, [2013-06-16T13:14:47.898183 #11232]  INFO -- : pull success!
+I, [2013-06-16T15:17:59.557339 #14028]  INFO -- : start to clone git@code.dianpingoa.com:yihua.huang/testgit.git to dir /data/gitpages/yihua.huang/testgit
+I, [2013-06-16T15:18:08.672791 #14028]  INFO -- : clone success!
