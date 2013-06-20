@@ -1,0 +1,8 @@
+DP._JSONPRequest._1 && DP._JSONPRequest._1({
+  "_id": "51c26dee4b43ad416e000002",
+  "callback": "{\"ga\":\"dpga(key)\",\"hippo\":\"var hippokeys = Object.keys(attrs).filter(function(key){\\n                return key.indexOf(\\\"hippo-\\\") == 0;\\n            }).forEach(function(key){\\n                attrs[key.split(\\\"hippo-\\\")[1]] = attrs[key];\\n                delete attrs[key]\\n            });\\n\\n            _hip.push(['mv', DP.mix({\\n                module: key,\\n                action:(action=='show'?'browse':action),\\n                content:this.getAttribute('href')||'',\\n                title:this.innerText || this.textContent\\n            },attrs)]);\"}",
+  "config": "{\"rules\":[{\"key\":\"dp_search_region_favor_click\",\"action\":\"click\",\"cb\":\"ga\",\"multi\":true,\"delegate\":true,\"parent\":\".asideContainer\",\"selector\":\".navBlock .nav-comm ul li a\"},{\"key\":\"dp_search_region_favor_close\",\"action\":\"click\",\"cb\":\"ga\",\"multi\":false,\"delegate\":false,\"parent\":\"body\",\"selector\":\"#region-favor-close\"},{\"key\":\"dp_search_region_favor_switch\",\"action\":\"click\",\"cb\":\"ga\",\"multi\":false,\"delegate\":false,\"parent\":\"body\",\"selector\":\"#region-favor-checkbox\"}],\"pv\":\"\"}",
+  "groupName": "search",
+  "pageKey": "new-shop-search",
+  "url": "http://yucong.github.io/conductor/new-shop-search.html"
+});
